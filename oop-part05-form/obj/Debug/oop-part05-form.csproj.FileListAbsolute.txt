@@ -1,0 +1,10 @@
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.exe.config
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.exe
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\bin\Debug\oop-part05-form.pdb
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csprojResolveAssemblyReference.cache
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop_part05_form.App.resources
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop_part05_form.Properties.Resources.resources
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csproj.GenerateResource.Cache
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.csproj.CoreCompileInputs.cache
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.exe
+C:\Users\P106\Desktop\cavo\oop-part05-form\oop-part05-form\obj\Debug\oop-part05-form.pdb
